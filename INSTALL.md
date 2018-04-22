@@ -31,6 +31,9 @@ Debian :</br>
 Fedora :</br>
 `sudo dnf install git make gcc-c++ hidapi-devel` # for hidapi</br>
 `sudo dnf install git make gcc-c++ libusbx-devel` # for libusb</br>
+Solus :</br>
+`sudo eopkg install -c system.devel git hidapi-devel` # for hidapi</br>
+`sudo eopkg install -c system.devel git libusb-devel` # for libusb</br>
 
 ## Installation :</br>
 `git clone https://github.com/MatMoul/g810-led.git`</br>
